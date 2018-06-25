@@ -558,7 +558,7 @@
 					};
 					418B6CF71D2707F800F974FB = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = S7TJSJXWUZ;
+						DevelopmentTeam = XG2WG7U93U;
 						LastSwiftMigration = 0900;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -977,7 +977,7 @@
 				CODE_SIGN_ENTITLEMENTS = BookPlayer/BookPlayer.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = S7TJSJXWUZ;
+				DEVELOPMENT_TEAM = XG2WG7U93U;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -986,7 +986,7 @@
 				INFOPLIST_FILE = BookPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tortugapower.audiobookplayer;
+				PRODUCT_BUNDLE_IDENTIFIER = br.eng.gustavo.audioplayer;
 				PRODUCT_NAME = BookPlayer;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
@@ -1003,7 +1003,7 @@
 				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_ENTITLEMENTS = BookPlayer/BookPlayer.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = S7TJSJXWUZ;
+				DEVELOPMENT_TEAM = XG2WG7U93U;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -1012,7 +1012,7 @@
 				INFOPLIST_FILE = BookPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tortugapower.audiobookplayer;
+				PRODUCT_BUNDLE_IDENTIFIER = br.eng.gustavo.audioplayer;
 				PRODUCT_NAME = BookPlayer;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1111,7 +1111,7 @@
 				CLANG_ENABLE_CODE_COVERAGE = NO;
 				CODE_SIGN_ENTITLEMENTS = BookPlayer/BookPlayer.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = S7TJSJXWUZ;
+				DEVELOPMENT_TEAM = XG2WG7U93U;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -1120,7 +1120,7 @@
 				INFOPLIST_FILE = BookPlayer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tortugapower.audiobookplayer;
+				PRODUCT_BUNDLE_IDENTIFIER = br.eng.gustavo.audioplayer;
 				PRODUCT_NAME = BookPlayer;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RELEASE;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";

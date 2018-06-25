@@ -12,7 +12,7 @@ public enum Constants {
         case forwardInterval = "userSettingsForwardInterval"
     }
 
-    static let ApplicationGroupIdentifier = "group.com.tortugapower.audiobookplayer.files"
+    static let ApplicationGroupIdentifier = "group.br.eng.gustavo.audioplayer.files"
 
     enum DefaultArtworkColors {
         case background

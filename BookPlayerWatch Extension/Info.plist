@@ -39,7 +39,7 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>WKAppBundleIdentifier</key>
-			<string>com.tortugapower.audiobookplayer.watchkitapp</string>
+			<string>br.eng.gustavo.audioplayer.watchkitapp</string>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.watchkit</string>
